@@ -1,0 +1,124 @@
+[
+    {
+        "traditional_game_slug": "margala",
+        "title": "Quiz Permainan Margala",
+        "total_questions": 3,
+        "min_score": 60,
+        "time_limit": 5,
+        "is_active": true,
+        "questions": [
+            {
+                "question": "Bagaimana cara memenangkan permainan Margala?",
+                "options": [
+                    {
+                        "text": "Berhasil melewati semua garis pertahanan tanpa tersentuh",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Mengumpulkan poin terbanyak",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Menjatuhkan lawan ke tanah",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Menghafal pola permainan",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question": "Peran utama tim penjaga dalam permainan Margala adalah?",
+                "options": [
+                    {
+                        "text": "Menjaga garis dan menyentuh lawan",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Menyerang lawan dengan bola",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Menghindari semua pemain",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Mengumpulkan benda di arena",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question": "Arena permainan Margala biasanya berbentuk?",
+                "options": [
+                    {
+                        "text": "Lapangan dengan beberapa kotak berbaris",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Lingkaran besar",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Segitiga",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Lapangan tanpa garis",
+                        "is_correct": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "traditional_game_slug": "tarek-situek",
+        "title": "Quiz Permainan Tarek Situek",
+        "total_questions": 3,
+        "min_score": 60,
+        "time_limit": 5,
+        "is_active": true,
+        "questions": [
+            {
+                "question": "Alat utama yang digunakan dalam permainan Tarek Situek adalah?",
+                "options": [
+                    { "text": "Pelepah pinang atau tali", "is_correct": true },
+                    { "text": "Kayu panjang", "is_correct": false },
+                    { "text": "Bola karet", "is_correct": false },
+                    { "text": "Tongkat bambu", "is_correct": false }
+                ]
+            },
+            {
+                "question": "Bagaimana cara menentukan pemenang dalam permainan Tarek Situek?",
+                "options": [
+                    {
+                        "text": "Tim yang menarik lawan melewati batas tertentu",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Tim yang paling cepat berlari",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Tim yang memiliki anggota terbanyak",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Tim yang bertahan paling lama tanpa bergerak",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question": "Permainan Tarek Situek berasal dari daerah?",
+                "options": [
+                    { "text": "Aceh", "is_correct": true },
+                    { "text": "Jawa Tengah", "is_correct": false },
+                    { "text": "Sulawesi Selatan", "is_correct": false },
+                    { "text": "Kalimantan Timur", "is_correct": false }
+                ]
+            }
+        ]
+    }
+]
